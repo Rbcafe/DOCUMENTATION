@@ -13,7 +13,7 @@
 <br/><b>Description de la barre d'outils.</b>
 
 - La barre d'outils est divisée en 3 éléments.
-- ECM : L'interface principale d'ECM.
+- ECM : L'interface principale de ECM.
 - Journaux : Afficher l'historique de ECM.
 - Nettoyer : Nettoyer les données.
 
