@@ -18,7 +18,7 @@
 - Extract : Extract a file from an Outguess image.
 - Logs : The logs reports all the activities inside Outguess.
 - Preferences : Access the preferences panel.
-- Clear : Clear all preferences and texts.
+- Clear : Clear all the preferences and texts.
 
 <div align="center"><img src="https://user-images.githubusercontent.com/2713634/59829945-defeb280-933e-11e9-9e29-fd9b5ca76fc9.png"></div>
 
