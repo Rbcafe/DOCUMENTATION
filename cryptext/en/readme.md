@@ -13,10 +13,10 @@
 <br/><b>Description of the toolbar.</b>
 
 - The toolbar is divided into 4 parts.
-- Encrypt : Encrypt text.
-- Decrypt : Decrypt text.
-- Logs : Logs reports all the activities inside Cryptext.
-- Preferences : Access preferences panel.
+- Encrypt : Encrypt the text.
+- Decrypt : Decrypt the text.
+- Logs : The logs reports all the activities inside Cryptext.
+- Preferences : Access the preferences panel.
 
 <h2>Logs.</h2>
 
@@ -38,7 +38,7 @@
 
 <b>AES Mode.</b>
 
-- Selector : Let you select a mode for AES encryption and decryption.
+- Selector : Let you select a mode for the AES encryption and decryption.
 - ECB : Electronic Codebook.
 
 <div align="center"><img src="https://user-images.githubusercontent.com/2713634/59826683-10738000-9337-11e9-9835-f92b155587e9.png"></div>
