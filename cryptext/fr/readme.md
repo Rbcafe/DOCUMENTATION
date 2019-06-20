@@ -59,4 +59,4 @@
 - À noter que la vérification d'orthographe est désactivée lorsque le texte est chiffré.
 
 Rbcafe<br/>
-https://www.rbcafe.fr/software/cryptext
+https://www.rbcafe.fr/software/cryptext/
