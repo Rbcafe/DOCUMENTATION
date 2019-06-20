@@ -1,5 +1,11 @@
 <h1>Cryptext</h1>
 
+<div align="center"><img src="https://user-images.githubusercontent.com/2713634/59831852-e7f18300-9342-11e9-92e7-50a1a1772539.png" width="256"></div>
+
+<h2>Installation</h2>
+
+- Using the App Store : https://itunes.apple.com/us/app/cryptext/id484889220?mt=12&ls=1&at=10ludN
+
 <h2>Main interface.</h2>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/2713634/59825250-cfc63780-9333-11e9-9716-67049af9294e.png"></div>
@@ -52,4 +58,4 @@
 - Note : The spell checking is disabled when the text is encrypted.
 
 Rbcafe<br/>
-https://www.rbcafe.com/software/cryptext
+https://www.rbcafe.com/software/cryptext/
