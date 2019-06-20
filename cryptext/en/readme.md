@@ -4,7 +4,7 @@
 
 <h2>Installation</h2>
 
-- Using the App Store : https://itunes.apple.com/us/app/cryptext/id484889220?mt=12&ls=1&at=10ludN
+- Using the Mac App Store : https://itunes.apple.com/us/app/cryptext/id484889220?mt=12&ls=1&at=10ludN
 
 <h2>Main interface.</h2>
 
