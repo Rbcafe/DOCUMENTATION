@@ -3,6 +3,7 @@
 <h2>English</h2>
 
 - <a href="/cryptext/en/readme.md">Cryptext</a>
+- <a href="/outguess/en/readme.md">Outguess</a>
 
 <h2>Français</h2>
 
