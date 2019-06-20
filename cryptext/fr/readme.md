@@ -1,5 +1,11 @@
 <h1>Cryptext</h1>
 
+<div align="center"><img src="https://user-images.githubusercontent.com/2713634/59831852-e7f18300-9342-11e9-92e7-50a1a1772539.png" width="256"></div>
+
+<h2>Installation</h2>
+
+- Par l'App Store : https://itunes.apple.com/us/app/cryptext/id484889220?mt=12&ls=1&at=10ludN
+
 <h2>L'interface.</h2>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/2713634/59828502-78c46080-933b-11e9-9868-a361999abc03.png"></div>
