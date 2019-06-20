@@ -9,3 +9,4 @@
 <h2>Français</h2>
 
 - <a href="/cryptext/fr/readme.md">Cryptext</a>
+- <a href="/ecm/fr/readme.md">ECM</a>
