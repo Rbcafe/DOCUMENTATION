@@ -21,7 +21,8 @@
 
 <b>Description of the main interface.</b>
 
-- The central zone receives drag and drop files to convert. (ecm, iso, cdr).
+- The central zone receives drag and drop files to convert. (BIN,CCD,CCI,CDR,ISO,NRG,ECM)
+- The central zone also receives click to select files to convert.
 - The export zone let you choose filename and folder place of converted file.
 - The convert button converts your file when all the elements are defined.
 
