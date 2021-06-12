@@ -4,7 +4,7 @@
 
 <h2>Installation</h2>
 
-- Using Brew : brew cask install outguess
+- Using Brew : brew install outguess
 - Download : https://www.rbcafe.com/download/outguess.zip
 
 <h2>Main interface.</h2>
